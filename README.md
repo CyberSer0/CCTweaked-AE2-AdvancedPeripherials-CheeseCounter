@@ -6,4 +6,7 @@ Mods used:
 - AdvancedPeripherials (ME Bridge)
 - AE2 (The ME System)
 
+<img width="882" height="698" alt="image" src="https://github.com/user-attachments/assets/188a3f0f-21d2-451b-994b-93a32b483bbc" />
+
+
 I named it cheese.lua because I counted minecolonies:cheddar_cheese since i made an infinite energy reactor that makes energy from cheese made from a singular cow.
